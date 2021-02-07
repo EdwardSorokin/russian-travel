@@ -137,7 +137,7 @@ body {
 
 .lead__subtitle {
   margin-top: 32px;
-  margin-bottom: 0; 
+  margin-bottom: 0;
   font-family: "Inter";
   font-style: normal;
   color: #FFFFFF;
@@ -190,12 +190,12 @@ body {
 }
 @media (max-width: 1024px) {
   .lead__figure {
-    margin-top: 56px
+    margin-top: 56px;
   }
 }
 @media (max-width: 320px) {
   .lead__figure {
-    margin-top: 40px
+    margin-top: 40px;
   }
 }
 
@@ -323,7 +323,7 @@ body {
   }
   @media (max-width: 1024px) {
     .photo-grid {
-    max-width: 928px;  
+    max-width: 928px;
     grid-template-columns: repeat(3,1fr);
     gap: 14px;
     position: unset;
@@ -361,7 +361,7 @@ body {
   }
 
   .place__title {
-    display: flex;  
+    display: flex;
     align-items: flex-end;
     margin: 0;
     /*margin-bottom: 48px;*/
