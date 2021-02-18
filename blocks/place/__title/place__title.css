@@ -1,0 +1,30 @@
+.place__title {
+    display: flex;
+    align-items: flex-end;
+    margin: 0;
+    /*margin-bottom: 48px;*/
+    max-width: 460px;
+    max-height: 100%;
+   /* font-family: "Inter";*/
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 76px;
+   /* border: 1px solid red;*/
+  }
+
+  @media (max-width: 768px) {
+    .place__title {
+      font-size: 42px;
+      line-height: 46px;
+    }
+  }
+
+  @media (max-width: 320px) {
+    .place__title {
+      font-size: 32px;
+      line-height: 35px;
+      margin: 0px 16px;
+    }
+  }

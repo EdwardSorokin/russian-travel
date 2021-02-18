@@ -1,0 +1,10 @@
+.footer__list-item {
+    list-style-type: none;
+    /*border: 1px solid red;*/
+  }
+
+  @media (max-width: 730px) {
+    .footer__list-item {
+      margin-bottom: 32px;
+    }
+  }
