@@ -5,10 +5,10 @@
     flex-direction: row;
     justify-content: space-between;
     /*border: 1px solid red;*/
-  }
+}
 
-  @media (max-width: 730px) {
+@media (max-width: 730px) {
     .footer__links {
-      flex-direction: column;
+        flex-direction: column;
     }
-  }
+}

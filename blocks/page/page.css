@@ -6,10 +6,11 @@
     padding-top: 28px;
     padding-bottom: 24px;
     position: relative;
-   /* border: 1px solid red;*/
-  }
-  @media (max-width: 320px) {
+    /* border: 1px solid red;*/
+}
+
+@media (max-width: 320px) {
     .page {
-      padding-top: 16px;
+        padding-top: 16px;
     }
-  }
+}

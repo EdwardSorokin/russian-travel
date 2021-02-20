@@ -49,8 +49,6 @@
 @import "../images/place-kosa.jpg";
 @import "../images/place-winter-baikal.jpg";
 @import "../blocks/place/__link/place__link.css";
-@import "../blocks/place/__paragraph-double/place__paragraph-double.css";
-@import "../blocks/place/__paragraph-first/place__paragraph-first.css";
 @import "../blocks/place/__paragraph/place__paragraph.css";
 @import "../blocks/place/__text/place__text.css";
 @import "../blocks/place/__title/place__title.css";
