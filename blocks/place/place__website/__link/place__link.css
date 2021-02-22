@@ -1,13 +1,13 @@
 .place__link {
     margin: 0;
     max-width: 456px;
-    /* font-family: "Inter";*/
     font-style: normal;
     color: #FFFFFF;
     font-size: 18px;
     font-weight: normal;
     line-height: 22px;
-    text-decoration: none;
+    text-decoration: underline;
+    padding-bottom: 0px;
     /* border: 1px solid red;*/
 }
 

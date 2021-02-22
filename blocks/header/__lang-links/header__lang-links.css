@@ -1,14 +1,15 @@
 .header__lang-links {
+    display: flex;
     line-height: 28px;
     font-size: 24px;
     font-weight: normal;
     margin-top: 18px;
     margin-bottom: 6px;
+    /*border: 1px solid red;*/
 }
 
 @media (max-width: 320px) {
     .header__lang-links {
-        /*font-family: "Inter, Arial, Helvetica, sans-serif";*/
         line-height: 20px;
         font-size: 18px;
         margin-top: 14px;

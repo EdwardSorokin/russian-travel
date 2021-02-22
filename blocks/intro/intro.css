@@ -1,6 +1,7 @@
 .intro {
     max-width: 690px;
     margin-top: 92px;
+    margin-left: 100px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -9,7 +10,7 @@
 
 @media (max-width: 1024px) {
     .intro {
-        margin-left: 0%;
+        margin-left: 46px;
     }
 }
 
